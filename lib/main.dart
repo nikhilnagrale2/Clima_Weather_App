@@ -1,3 +1,7 @@
+//
+//    Remember add your own api key before running in services/weather.dart file 
+//    generate api key from openweathermaps.com
+//
 import 'package:flutter/material.dart';
 import 'package:clima/screens/loading_screen.dart';
 
